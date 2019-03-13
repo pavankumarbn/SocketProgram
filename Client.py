@@ -1,6 +1,6 @@
-#CLIENT
+#CLIENT on Windows
 #Author : Pavan Kumar B N
-#Datae : 13/03/2018
+#Datae : 13/03/2019
 #!/usr/bin/env python
 
 import socket
